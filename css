@@ -1,0 +1,96 @@
+body
+{
+background-image:url(img.jpg);
+height: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.ulh
+{
+    position: relative;
+    z-index: 2;
+    font-size: 17px;
+    background-color: #5f5f5f;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 0;
+    letter-spacing: 1px;
+    font-family: "Segoe UI",Arial,sans-serif;
+
+}
+.lih
+{
+  display: inline;
+  float: left;
+  border-right: 1px solid;
+  color: green;
+}
+li a:hover 
+{
+  background-color: #111;
+
+}
+
+.ah
+{
+  display: block;
+  color: black;
+  font-size:large;
+  font-weight:bold; 
+  text-align: center;
+  padding: 14px 16px;
+}
+.logo1
+{
+width: 100px;
+height: 100px;
+float: left;
+}
+hr
+{
+margin-top: 45px;
+margin-bottom: 45px;
+}
+nav
+{
+float: left;
+}
+.ulnav
+{
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+background-color:#f3f3f3;
+width: 200px;
+border-radius: 10px;
+}
+.anav
+{
+display: block;
+color: green;
+font-family: arial;
+font-size: large;
+font-weight: bold;
+text-decoration: none;
+padding: 13px; 
+text-align: center;
+}
+.imageside
+{
+width: 300px;
+height: 300px;
+float: right;
+}
+figcaption
+{
+	text-align:right;
+	color:red;
+	font-size: medium;
+	font-family:ms gothic;
+
+}
+aside
+{
+float:right;
+}
+
